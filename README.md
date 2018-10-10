@@ -67,6 +67,13 @@ www.cnm.asia
 ```
 http://www.shuwu.mobi/
 ```
+> 17. 下载音乐网站
+```
+  1. http://music.zhuolin.wang/
+  2. http://www.gequdaquan.net/gqss/
+  3. http://music.fooor.cn/
+  4. http://moresound.tk/music/
+```
 
 
 
