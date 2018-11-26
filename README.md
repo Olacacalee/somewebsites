@@ -74,7 +74,11 @@ http://www.shuwu.mobi/
   3. http://music.fooor.cn/
   4. http://moresound.tk/music/
 ```
-
+> 18. 影视资源搜索
+```
+  1. http://ifkdy.com
+  2. https://www.cupfox.com
+```
 
 
 
