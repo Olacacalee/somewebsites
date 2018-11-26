@@ -79,7 +79,10 @@ http://www.shuwu.mobi/
   1. http://ifkdy.com
   2. https://www.cupfox.com
 ```
-
+> 19. window系统下载
+```
+https://msdn.itellyou.cn/
+```
 
 
 
