@@ -129,4 +129,60 @@ http://receiveonlinesms.com
 ```
  http://360doc.renpengpeng.com/
 ```
+> 23. Logstash
+```
+1. logstash插件 https://blog.csdn.net/sinat_35930259/article/details/81052139 https://blog.51cto.com/chentianwang/2065146
+2. logstash镜像 https://gems.ruby-china.com/
+3. ELK之Logstash https://blog.csdn.net/wfs1994/article/details/80071815
+4. KafkaManager原理 https://cloud.tencent.com/developer/article/1329505
+5. docker-compose安装kafka集群 https://blog.51cto.com/536410/2322056
+6. Yikes! Ask timed out on [….] https://github.com/yahoo/kafka-manager/issues/430
+7. Logstash本地安装Plugin https://www.cnblogs.com/zychengzhiit1/p/7482262.html
+8. Integrating Logstash http://pnda.io/pnda-guide/repos/prod-logstash-codec-avro/
+9. Avro与java https://shift-alt-ctrl.iteye.com/blog/2217425
+10. Logstash与Avro序列化 https://elasticsearch.cn/question/1705
+```
+> 24. some
+```
+1. 布隆算法 https://www.cnblogs.com/sten/p/5628637.html https://github.com/Baqend/Orestes-Bloomfilter
+2. JVM https://blog.csdn.net/qq_41701956/article/details/81664921  https://juejin.im/post/5d1ad06b6fb9a07f021a19e8?utm_source=gold_browser_extension 
+3. Swagger使用指南 https://blog.csdn.net/sanyaoxu_2/article/details/80555328
 
+4. 使用Enterprise Architect生成word数据字典（包含表的结构和注释）方法 http://blog.itpub.net/26506993/viewspace-2103398/
+
+5. maven-assembly-plugin把java工程打包成为一个可执行的jar包 https://www.cnblogs.com/nihaorz/p/6567047.html
+6. 什么是CI/CD https://linux.cn/article-9926-1.html
+7. SpringCloud教程 https://blog.csdn.net/forezp/article/details/70148833
+```
+> 25. jAVA
+```
+1. 并发编程 https://blog.csdn.net/qq_34039315/article/details/78549311
+2. 成为一个更好的Javaer https://github.com/hollischuang/toBeTopJavaer
+```
+> 26. 工具
+```
+1. 搜索技巧 https://mp.weixin.qq.com/s/xWLUUa_dGmH7U5Ggc5dIpA
+2. 教育学习工具大全 http://www.nicetool.net/list/jiaoyu/
+3. 在线工具大全 http://www.nicetool.net/
+4. 在线小游戏 https://dos.zczc.cz/
+```
+> 27. 环境安装
+```
+1. CentOS 7安装JAVA https://www.cnblogs.com/yjlch1016/p/8900841.html
+2. Linux下安装docker，更改镜像仓库地址，并部署springboot应用 https://blog.csdn.net/qq_35992900/article/details/81110140
+```
+> 28. Apollo
+```
+1. Apollo学习入门 https://blog.csdn.net/u010775025/article/details/79162428
+2. Apollo核心概念之Namespace https://github.com/ctripcorp/apollo/wiki/Apollo%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B9%8B%E2%80%9CNamespace%E2%80%9D
+3. SpringBoot的Apollo的基本使用 https://www.jianshu.com/p/2742b47389bf
+4. Apollo的git地址 https://github.com/ctripcorp/apollo
+5. Apollo的搭建和使用 https://blog.csdn.net/luhong327/article/details/81453001
+6. 把自己的配置放到Spring中 https://www.jianshu.com/p/cd6824f0672d
+7. Apollo在一般Spring项目中的基本使用 https://blog.csdn.net/l695914494/article/details/86237150
+8. spring boot使用jasypt加密原理解析 https://blog.csdn.net/u013905744/article/details/86508236
+9. Apollo敏感信息加密 https://blog.csdn.net/michael_hm/article/details/80309662
+10. Apollo client源码分析 https://qiankunli.github.io/2017/09/23/apollo_client_source.html
+11. Apollo动态切换数据源 https://github.com/g5niusx/apollo-demo/blob/master/apollo-spring-boot/src/main/java/com/apollo/demo/spring/boot/ApolloSpringBootApplication.java https://www.cnblogs.com/heavenhome/articles/6252797.html 
+
+```
