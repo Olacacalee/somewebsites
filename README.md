@@ -184,5 +184,23 @@ http://receiveonlinesms.com
 9. Apollo敏感信息加密 https://blog.csdn.net/michael_hm/article/details/80309662
 10. Apollo client源码分析 https://qiankunli.github.io/2017/09/23/apollo_client_source.html
 11. Apollo动态切换数据源 https://github.com/g5niusx/apollo-demo/blob/master/apollo-spring-boot/src/main/java/com/apollo/demo/spring/boot/ApolloSpringBootApplication.java https://www.cnblogs.com/heavenhome/articles/6252797.html 
-
+```
+> 29. docker
+```
+1. docker搭建ELK
+https://www.jianshu.com/p/b81e1b7c0efb
+https://www.jianshu.com/p/406a0f5aa03a
+https://blog.csdn.net/qq_32440951/article/details/83905123
+2. 快速搭建ELK
+https://blog.csdn.net/Ahri_J/article/details/79609444
+3. 配置docker镜像地址
+https://www.daocloud.io/mirror
+4. ElasticSearch 权威指南
+https://es.xiaoleilu.com/
+5. docker网络详解之host
+https://blog.csdn.net/u012972836/article/details/83379423
+6. docker安装kafka
+https://www.cnblogs.com/yxlblogs/p/10115672.html
+7. kafka使用avro解码
+https://www.cnblogs.com/darange/p/9787139.html
 ```
