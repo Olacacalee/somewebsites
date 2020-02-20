@@ -66,6 +66,10 @@ www.cnm.asia
 > 16. 电子书
 ```
 http://www.shuwu.mobi/
+https://www.zqbook.top/
+https://www.jiumodiary.com/
+https://bookfere.com/search
+https://epubw.com/
 ```
 > 17. 下载音乐网站
 ```
@@ -73,6 +77,7 @@ http://www.shuwu.mobi/
   2. http://www.gequdaquan.net/gqss/
   3. http://music.fooor.cn/
   4. http://moresound.tk/music/
+  5. http://www.hires.cn/
 ```
 > 18. 影视资源搜索
 ```
@@ -85,6 +90,7 @@ https://msdn.itellyou.cn/
 ```
 > 20. 国内免费临时手机号
 ```
+http://www.xnsms.com/
 https://sms.cm
 https://www.pdflibr.com
 https://www.becmd.com
@@ -258,4 +264,56 @@ https://www.cnblogs.com/blogscc/p/7805772.html
 ```
 http://blog.ucme.top/blog/74
 https://github.com/CentOS/CentOS-Dockerfiles/tree/master/mariadb/centos7
+```
+> 32. 红黑树
+```
+https://mp.weixin.qq.com/s/q1jZOQyXlcHeboFRCxx_dg
+https://juejin.im/post/5df4aaefe51d45581269a6d2
+```
+> 33. springmvc单元测试
+```
+https://blog.csdn.net/Little_fxc/article/details/83900502
+```
+> 34. java高级面试
+```
+https://blog.csdn.net/weixin_36104843/article/details/88106513
+https://www.jianshu.com/p/0248e9885532
+```
+> 35. 集合
+```
+1. 知您网
+https://www.zhinin.com/
+2. 就是爱分享
+https://www.94afx.com/
+3. 掘金酱
+https://e.xitu.io/
+4. 快搜
+https://search.chongbuluo.com/
+5. 广告创意
+https://www.addog.vip/
+6. 今日热榜
+https://tophub.today/
+7. 推库
+https://www.tuicool.com/
+8. 
+```
+> 36. header中包含签名
+```
+https://www.alibabacloud.com/help/zh/doc-detail/31951.htm
+```
+> 37. iOS破解
+```
+https://www.52pojie.cn/forum.php?mod=collection&action=view&ctid=1917
+```
+> 38. SOFAStack
+```
+https://www.sofastack.tech/projects/sofa-boot/quick-start/
+```
+> 39. oss客户端Windows版
+```
+https://market.aliyun.com/products/53690006/cmgj000281.html#sku=biaozhunban
+```
+> 40. spring cloud 
+```
+https://github.com/zhoutaoo/SpringCloud
 ```
