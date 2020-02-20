@@ -245,3 +245,17 @@ https://www.cnblogs.com/yxlblogs/p/10115672.html
 7. kafka使用avro解码
 https://www.cnblogs.com/darange/p/9787139.html
 ```
+> 29. 临时文件存储
+```
+https://www.file.io/
+https://airportal.cn/
+```
+> 30. 安装wordpress
+```
+https://www.cnblogs.com/blogscc/p/7805772.html
+```
+> 31. centos7安装mariadb
+```
+http://blog.ucme.top/blog/74
+https://github.com/CentOS/CentOS-Dockerfiles/tree/master/mariadb/centos7
+```
