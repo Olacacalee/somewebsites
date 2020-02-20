@@ -295,7 +295,9 @@ https://www.addog.vip/
 https://tophub.today/
 7. 推库
 https://www.tuicool.com/
-8. 
+8. 在线PPT 
+https://www.woodo.cn/
+
 ```
 > 36. header中包含签名
 ```
@@ -308,6 +310,7 @@ https://www.52pojie.cn/forum.php?mod=collection&action=view&ctid=1917
 > 38. SOFAStack
 ```
 https://www.sofastack.tech/projects/sofa-boot/quick-start/
+https://www.sofastack.tech/blog/seata-distributed-transaction-deep-dive/
 ```
 > 39. oss客户端Windows版
 ```
@@ -317,3 +320,9 @@ https://market.aliyun.com/products/53690006/cmgj000281.html#sku=biaozhunban
 ```
 https://github.com/zhoutaoo/SpringCloud
 ```
+> 41. HashMap
+```
+https://mp.weixin.qq.com/s/psovC6A7X4ZPfeUu2x9APQ
+```
+
+
