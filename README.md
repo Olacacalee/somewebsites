@@ -324,5 +324,19 @@ https://github.com/zhoutaoo/SpringCloud
 ```
 https://mp.weixin.qq.com/s/psovC6A7X4ZPfeUu2x9APQ
 ```
-
+> 42. 临时网盘
+```
+https://send.firefox.com
+```
+> 43. 毛笔字体
+```
+https://www.shufazi.cn
+```
+> 44. 牛牛tv
+```
+http://www.ziliao6.com/tv/
+```
+> 45. mysql备份
+```
+https://www.cnblogs.com/yourblog/archive/2019/02/15/10381962.html
 
