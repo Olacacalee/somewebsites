@@ -275,3 +275,24 @@ https://www.jianshu.com/p/0248e9885532
 9. iOS破解
 https://www.52pojie.cn/forum.php?mod=collection&action=view&ctid=1917
 ```
+> 1. github下载
+```
+https://g.widora.cn/
+```
+> 2. Linux递归创建目录
+```
+mkdir -vp aa/bb/cc
+```
+> 3. Nginx配置，http强制跳转到https
+```
+https://help.aliyun.com/document_detail/98728.html?spm=5176.2020520163.0.0.fb0256a7kdLuxn
+https://linuxize.com/post/redirect-http-to-https-in-nginx/
+https://www.cnblogs.com/xuxianren/p/8204700.html
+https://zhuanlan.zhihu.com/p/111529295
+http://blog.shiqichan.com/Deploying-Nginx-with-Docker/
+https://www.cnblogs.com/knowledgesea/p/5175711.html
+```
+> 4. 免费申请SSL证书
+```
+https://freessl.cn/
+```
